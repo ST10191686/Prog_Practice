@@ -1,0 +1,8 @@
+C:\Users\phuti\source\repos\Ice 1 PROG!\bin\Debug\Ice 1 PROG!.exe.config
+C:\Users\phuti\source\repos\Ice 1 PROG!\bin\Debug\Ice 1 PROG!.exe
+C:\Users\phuti\source\repos\Ice 1 PROG!\bin\Debug\Ice 1 PROG!.pdb
+C:\Users\phuti\source\repos\Ice 1 PROG!\obj\Debug\Ice 1 PROG!.csproj.AssemblyReference.cache
+C:\Users\phuti\source\repos\Ice 1 PROG!\obj\Debug\Ice 1 PROG!.csproj.SuggestedBindingRedirects.cache
+C:\Users\phuti\source\repos\Ice 1 PROG!\obj\Debug\Ice 1 PROG!.csproj.CoreCompileInputs.cache
+C:\Users\phuti\source\repos\Ice 1 PROG!\obj\Debug\Ice 1 PROG!.exe
+C:\Users\phuti\source\repos\Ice 1 PROG!\obj\Debug\Ice 1 PROG!.pdb
